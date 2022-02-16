@@ -1,5 +1,9 @@
 puts "For Loop Program"
 
-for k in 0..9
-  puts k
+
+puts "While loop program"
+k=1
+while k<5 do
+  puts "Good"
+  k +=1
 end
